@@ -1,6 +1,6 @@
-# prototyping-template
+# prototyping-template-node
 
-Basic project template to get up and running fast and hack some stuff together
+Basic project template to get up and running fast and hack some stuff together with a localhost Node server
 
 ## Setup
 
@@ -19,6 +19,8 @@ Go to new project directory then run
 To run server
 
     grunt server
+
+then go to [http://localhost:3000](http://localhost:3000) to see it working.
 
 Adding libraries is made easier by using bower and grunt-wiredep:
 
