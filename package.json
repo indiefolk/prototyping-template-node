@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "devDependencies": {
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-wiredep": "^2.0.0",
+    "load-grunt-tasks": "^3.1.0",
+    "request": "^2.53.0"
+  },
+  "dependencies": {
+    "connect": "^3.4.0",
+    "connect-pushstate": "^1.0.0",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-eslint": "^17.2.0",
+    "grunt-jscs-checker": "^0.8.1",
+    "jshint-stylish": "^2.0.1",
+    "morgan": "^1.6.1",
+    "serve-static": "^1.10.0"
+  }
+}

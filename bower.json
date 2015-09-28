@@ -1,0 +1,11 @@
+{
+  "name": "project-template",
+  "version": "0.0.0",
+  "authors": [
+    "John Lund <john@indiefolk.co.uk>"
+  ],
+  "private": true,
+  "dependencies": {
+    "normalize.css": "~3.0.3"
+  }
+}

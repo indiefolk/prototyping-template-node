@@ -1,0 +1,14 @@
+{
+    "env": {
+        "browser": true,
+        "node": true,
+        "amd": true,
+    },
+    "rules": {
+        "camelcase": [2, {properties: "never"}],
+        "quotes": [1, "single"]
+    },
+    "globals": {
+        "console": true
+    }
+}

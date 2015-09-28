@@ -1,0 +1,27 @@
+{
+    "es3": true,
+    "camelcase": false,
+    "freeze": true,
+    "unused": true,
+    "nonbsp": true,
+    "browser": true,
+    "curly": true,
+    "eqeqeq": true,
+    "immed": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "nonew": true,
+    "quotmark": true,
+    "sub": true,
+    "undef": true,
+    "boss": true,
+    "eqnull": true,
+    "noempty": true,
+    "node": true,
+    "globals": {
+        "define": true,
+        "Handlebars": true,
+        "JSON": true
+    }
+}
